@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jessica’s Valentine’s Day Message</title>
+    <style>
+        body {
+            background-color: #ffccd5;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 50px;
+            color: #6d214f;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            display: inline-block;
+            max-width: 600px;
+        }
+        h1 {
+            color: #d63384;
+            font-size: 28px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .heart {
+            font-size: 50px;
+            color: red;
+            margin: 20px 0;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #6d214f;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Jessica’s Valentine’s Day Message</h1>
+        <div class="heart">❤️</div>
+        <p>
+            I just want to take a moment to tell you how much I love and appreciate you.  
+            The journey we’ve been on together has been nothing short of amazing,  
+            and I’m so grateful for how we’ve turned things around.  
+        </p>
+        <p>
+            The love and understanding between us mean everything to me.  
+            I value and respect you. I wish I could have done more,  
+            but the financial burden of mummy’s illness has made things tough.  
+        </p>
+        <p>
+            Still, I promise this is only temporary.  
+            I will make it up to you in ways that truly matter.  
+        </p>
+        <p>
+            What matters most is that we are in this together, always.  
+            <strong>Happy Valentine’s Day, my love.  
+            You are my greatest blessing.</strong>
+        </p>
+        <div class="heart">💖</div>
+    </div>
+    <div class="footer">With all my love, [Your Name]</div>
+</body>
+</html>
